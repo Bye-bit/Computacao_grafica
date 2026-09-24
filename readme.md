@@ -1,8 +1,19 @@
 # Transformações Geométricas 2D
 
 Projeto desenvolvido para demonstrar o uso de transformações geométricas 2D utilizando **HTML, JavaScript e Canvas 2D**.
-
 A aplicação apresenta uma cena urbana ao entardecer, com um carro que pode ser movimentado e transformado através do teclado.
+
+##  Integrantes
+
+* Lucas Fernandes
+* Anna Beatriz
+
+##  Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Canvas 2D
 
 ##  Funcionamento
 
@@ -195,16 +206,5 @@ index.html
 
 em um navegador compatível com HTML5 Canvas e utilizar as teclas **A**, **D**, **W** e **S** para interagir com o carro.
 
-##  Integrantes
-
-* Lucas Fernandes
-* Anna Beatriz
-
-##  Tecnologias utilizadas
-
-* HTML5
-* CSS3
-* JavaScript
-* Canvas 2D
 
 
