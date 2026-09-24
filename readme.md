@@ -198,8 +198,7 @@ em um navegador compatível com HTML5 Canvas e utilizar as teclas **A**, **D**, 
 ##  Integrantes
 
 * Lucas Fernandes
-* [Nome do integrante]
-* [Nome do integrante]
+* Anna Beatriz
 
 ##  Tecnologias utilizadas
 
@@ -209,4 +208,3 @@ em um navegador compatível com HTML5 Canvas e utilizar as teclas **A**, **D**, 
 * Canvas 2D
 
 
-  Desenvolvido Por Anna Beatriz e Lucas Fernandes
