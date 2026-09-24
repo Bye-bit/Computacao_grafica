@@ -215,9 +215,9 @@ function drawCar() {
 
   const bodyGradient = ctx.createLinearGradient(300, 350, 700, 440);
 
-  bodyGradient.addColorStop(0, "#8b0000");
-  bodyGradient.addColorStop(0.45, "#e53935");
-  bodyGradient.addColorStop(1, "#7f0000");
+  bodyGradient.addColorStop(0, "#00308b");
+  bodyGradient.addColorStop(0.45, "#3596e5");
+  bodyGradient.addColorStop(1, "#00047f");
 
   ctx.fillStyle = bodyGradient;
 
@@ -235,7 +235,7 @@ function drawCar() {
   ctx.closePath();
   ctx.fill();
 
-  ctx.fillStyle = "#a91515";
+  ctx.fillStyle = "#15359d";
 
   ctx.beginPath();
   ctx.moveTo(350, 365);
@@ -271,10 +271,10 @@ function drawCar() {
   ctx.lineTo(475, 360);
   ctx.stroke();
 
-  ctx.fillStyle = "#9d1818";
+  ctx.fillStyle = "#18189d";
   ctx.fillRect(320, 385, 365, 55);
 
-  ctx.strokeStyle = "#ff6b6b";
+  ctx.strokeStyle = "#6b8bff";
   ctx.lineWidth = 3;
 
   ctx.beginPath();
@@ -282,7 +282,7 @@ function drawCar() {
   ctx.lineTo(680, 400);
   ctx.stroke();
 
-  ctx.strokeStyle = "#641010";
+  ctx.strokeStyle = "#101064";
   ctx.lineWidth = 3;
 
   ctx.beginPath();
